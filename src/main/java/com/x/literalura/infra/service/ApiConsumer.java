@@ -1,4 +1,4 @@
-package com.x.literalura.service;
+package com.x.literalura.infra.service;
 
 import org.springframework.stereotype.Component;
 import java.io.IOException;
